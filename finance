@@ -34,3 +34,6 @@ to use the git branch -v this command is to see the last commit we did
 
 next step  is to check out the file i need to update to lets see what will happened this is for Branch file v2.
 
+to check the file status for the git diff in line 37 before and after line in git diff command.
+
+this edit is to see the git diff command to check whether what changes happened on the file.
