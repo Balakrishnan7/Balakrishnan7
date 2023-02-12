@@ -40,3 +40,5 @@ this edit is to see the git diff command to check whether what changes happened 
 this line is to added to check the file status for the git diff in line 37 before and after line in git diff command.
 
 checking the git fetch orgin on local repo to sync.
+
+track the chenges in local repo 
